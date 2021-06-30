@@ -1,0 +1,25 @@
+{
+  "name": "zookeepr",
+  "version": "1.0.0",
+  "description": "- [Description](#Description) - [Installation](#Installation) - [Usage](#Usage) - [Licenses](#Licenses) - [Contribution](#Contribution) - [Link](#Link) - [Questions](#Questions) - [email](#email)",
+  "main": "server.js",
+  "scripts": {
+    "test": "Express",
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rey79-coder/zookeepr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rey79-coder/zookeepr/issues"
+  },
+  "homepage": "https://github.com/Rey79-coder/zookeepr#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}
